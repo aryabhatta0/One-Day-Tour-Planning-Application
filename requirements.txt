@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+transformers
+torch
+neo4j
+openai
+requests
+streamlit
